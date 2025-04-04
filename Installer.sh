@@ -48,7 +48,7 @@ echo
 echo -e "${GREEN}•${BLUE} Granting execution permissions to the script ...${NC}"
 chmod +x DevilMode.sh
 echo
-w
+
 echo
 echo "• Process completed!"
 echo
