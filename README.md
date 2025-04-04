@@ -79,21 +79,18 @@ bash DevilMode.sh
 
 ## Script Settings ⚙️  
 
-#### 1. Configuration of the eerie messages displayed in the terminal  
-To configure these messages, you can modify the "Mensajes" variable in the "DevilMode.sh" script.  
-
-#### 2. Script timer configuration  
+#### 1. Script timer configuration  
 In the "timer" function of the "DevilMode.sh" script, you can adjust the timer delay.  
 
-#### 3. Script audio configuration  
+#### 2. Script audio configuration  
 You can change the script's audio by replacing the file "Media/music.mp3" with your preferred audio file.  
 
-#### 4. Wallpaper configuration  
+#### 3. Wallpaper configuration  
 Replace the file "Media/oldwallpaper.jpg" with your current wallpaper and "Media/oldwallpaperlock.jpg" with your lock screen wallpaper. The script will use these files to restore your original wallpapers when it stops.  
 
 ## Troubleshooting 🛠️  
 
-If you encounter issues when running the installer `Instalador.sh`, it may be due to missing dependencies. If this happens, you can install them manually by following these steps:  
+If you encounter issues when running the installer `Installer.sh`, it may be due to missing dependencies. If this happens, you can install them manually by following these steps:  
 
 Open **Termux** and run the following commands to install the necessary dependencies:  
 
