@@ -292,7 +292,7 @@ fi
     echo
     echo -e "\e[31m[×] DEVIL MODE DEACTIVATED \e[0m"
     echo
-    echo "• Leaving already? What a pity !! I wanted to have more fun ..."
+    echo "• Leaving already? What a pity ‼️ I wanted to have more fun ..."
     echo "• Github: https://github.com/MckRules156 "
     echo
     echo -e "\e[31m$(cat Media/att.txt)\e[0m"
