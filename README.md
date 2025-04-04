@@ -80,7 +80,7 @@ bash DevilMode.sh
 ## Script Settings ⚙️  
 
 #### 1. Configuration of the eerie messages displayed in the terminal  
-To configure these messages, you can modify the "Mensajes" variable in the "ModoDiablo.sh" script.  
+To configure these messages, you can modify the "Mensajes" variable in the "DevilMode.sh" script.  
 
 #### 2. Script timer configuration  
 In the "timer" function of the "DevilMode.sh" script, you can adjust the timer delay.  
