@@ -4,44 +4,44 @@
 
 
 
-# ModoDiablo 👹
-**Este script no solo ejecuta comandos, invoca fuerzas más allá de lo comprensible ...**  
+# DevilMode 👹
+**This script not only executes commands, it invokes forces beyond comprehension. ...**  
 
 
-## Descripción 📄
+## Description 📄
 
-¡Bienvenido al **lado oscuro** de la tecnología! **ModoDiablo** es un script en **Termux** diseñado para convertir tu teléfono en un **portal digital hacia el infierno**. Prepárate para vivir una experiencia aterradora, donde los límites entre lo real y lo sobrenatural se desdibujan.
+   Welcome to the **dark side** of technology! **DevilMode** is a script for **Termux** designed to turn your phone into a **digital portal to hell**. Get ready for a terrifying experience where the boundaries between reality and the supernatural blur.
 
-Este script transforma tu dispositivo en una **entidad poseída**, desatando efectos perturbadores como **sonidos demoníacos**, **vibraciones inexplicables**, y un **servidor demoníaco** que se manifiesta de maneras insólitas. Desde **notificaciones espeluznantes** hasta cambios en la apariencia de tu teléfono, cada acción está cuidadosamente diseñada para crear una atmósfera de terror.
+This script transforms your device into a **possessed entity**, unleashing disturbing effects such as **demonic sounds**, **inexplicable vibrations**, and a **demonic server** that manifests in eerie ways. From **spine-chilling notifications** to changes in your phone's appearance, every action is carefully crafted to create an atmosphere of horror.
 
-Ya sea que desees asustar a tus amigos, sorprender a alguien con un toque macabro o simplemente experimentar con lo paranormal, **ModoDiablo** está aquí para poner a prueba tus nervios. Porque recuerda: el diablo no necesita tu alma… solo tu teléfono.
+Whether you want to scare your friends, surprise someone with a macabre touch, or simply experiment with the paranormal, **DevilMode** is here to test your nerves. Because remember: the devil doesn’t need your soul… just your phone.
 
-**¿Estás listo para desatar el caos?** 
+**Are you ready to unleash chaos?** 
 
-## Compatibilidad 📲
+## Compatibility 📲
 
-Este script es compatible con **Termux**. Para un funcionamiento completo, es necesario tener instalada la extensión **Termux:API**, que proporciona acceso a diversas funcionalidades del sistema.  
+This script is compatible with **Termux**. For full functionality, the **Termux:API** extension must be installed, providing access to various system features.  
 
+## Features ⭐
 
-## Características ⭐
+This script will unleash a series of demonic effects on your device, turning it into a digital portal to hell. Some of the features include:
 
-Este script desatará una serie de efectos demoníacos en tu dispositivo, convirtiéndolo en un portal digital hacia el infierno. Algunas de las características incluyen:
+**1. Demonic Voice**: A demonic voice will declare that your device has been possessed, followed by a devilish laugh and a satanic melody that will send chills down your spine.
 
-**1. Voz Demoníaca**: Se oirá una voz demoniaca que advierte que tu dispositivo ha sido poseído, seguida de una risa diabólica y una melodía satánica que pondrá los pelos de punta.
-   
-**2. Cambio de Fondo de Pantalla**: Tu fondo de pantalla se transformará en una imagen tenebrosa, dándole a tu teléfono una atmósfera oscura y espeluznante.
-   
-**3. Vibración Incesante**: El teléfono comenzará a vibrar de manera interminable, generando una sensación inquietante y descontrolada.
-   
-**4. Linterna Intermitente**: La linterna de tu teléfono se encenderá y apagará sola, como si estuviera controlada por fuerzas oscuras.
-   
-**5. Mensajes Flotantes**: Aparecerán mensajes flotantes en tu pantalla, con contenido aterrador y mensajes del otro lado.
-   
-**6. Notificaciones del Diablo**: Recibirás notificaciones misteriosas y aterradoras del propio diablo, aumentando la tensión y el desconcierto.
-   
-**7. Mensajes en la Terminal**: La terminal mostrará mensajes tenebrosos en tiempo real, como si tu teléfono estuviera poseído por una entidad maligna.
-   
-**8. Servidor Demoníaco**: Se creará un servidor demoníaco en segundo plano y se abrirá automáticamente en el navegador, proporcionando una experiencia aún más inquietante.
+**2. Wallpaper Change**: Your wallpaper will transform into a terrifying image, giving your phone a dark and eerie atmosphere.
+
+**3. Endless Vibration**: The phone will start vibrating non-stop, creating an unsettling and uncontrollable sensation.
+
+**4. Flickering Flashlight**: Your phone’s flashlight will turn on and off by itself, as if controlled by dark forces.
+
+**5. Floating Messages**: Creepy floating messages will appear on your screen, delivering sinister warnings from the other side.
+
+**6. Devil’s Notifications**: You will receive mysterious and terrifying notifications from the devil himself, increasing the tension and confusion.
+
+**7. Terminal Messages**: The terminal will display eerie messages in real time, as if your phone were possessed by an evil entity.
+
+**8. Demonic Server**: A demonic server will run in the background and automatically open in the browser, providing an even more chilling experience.
+
 
 ## Screenshots 📸
 
