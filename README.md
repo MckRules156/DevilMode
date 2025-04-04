@@ -1,4 +1,4 @@
-<img src="https://github.com/MckRules156/ModoDiablo/blob/main/Media/logo2.jpg?raw=true" alt="ModoDiablo Logo" width="1000"/>
+<img src="https://github.com/MckRules156/DevilMode/blob/main/Media/logo2.jpg?raw=true" alt="ModoDiablo Logo" width="1000"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=MckRules156&color=red&style=flat-square) ![Profile Status](https://img.shields.io/badge/Profile-Active-green?style=flat-square) ![Made with rage](https://img.shields.io/badge/Made%20with-Rage%20💀-red?style=flat-square) ![Compatible con Termux](https://img.shields.io/badge/Compatible%20con-Termux-%23121011.svg?style=flat-square&logo=android&logoColor=white) ![Compatible con Termux](https://img.shields.io/badge/Requisito-Termux:API-%23121011.svg?style=flat-square&logo=android&logoColor=white) ![Programado en Bash](https://img.shields.io/badge/Programado%20en-Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
 
@@ -148,4 +148,4 @@ Si tienes alguna pregunta o sugerencia, puedes contactarme a través de:
 - Correo electrónico: [MckRules156@proton.me](mailto:MckRules156@proton.me)
 - GitHub: [@MckRules156](https://github.com/MckRules156)
 
-![Créditos](https://github.com/MckRules156/ModoDiablo/blob/main/Media/credits.png)
+![Créditos](https://github.com/MckRules156/DevilMode/blob/main/Media/credits.png)
